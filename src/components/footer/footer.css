@@ -1,0 +1,132 @@
+.footer__flex {
+    display: flex;
+    padding: 20px 20px 1rem 20px;
+    width: 100%;
+    background-color: var(--color--background-footer);
+    align-items: center;
+}
+
+.footer__container {
+    display: flex;
+    width: 100%;
+
+    padding: 20px 20px;
+
+    justify-content: space-between;
+}
+
+.common-title {
+    margin-bottom: 24px;
+}
+
+.common-title > a {
+    font-size: 0.813rem;
+    color: var(--color-white);
+    font-weight: 700;
+}
+
+.footer__item {
+    line-height: 2;
+}
+
+.footer__item > a {
+    font-size: 0.75rem;
+    color: var(--color-white);
+}
+
+.footer__social {
+    display: flex;
+    gap: 22px;
+    height: 37%;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.footer__social > li {
+    display: flex;
+}
+
+.email__container {
+    width: 380px;
+    height: 260px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.email__container > h4 {
+    color: #3f3f40;
+    font-size: 1.13em;
+
+    font-weight: 300;
+}
+
+.email__container > span {
+    font-weight: 700;
+    font-size: 1.13em;
+    letter-spacing: 2px;
+    margin-top: 15px;
+}
+
+.email__container > p {
+    font-size: 0.75rem;
+    color: #3f3f40;
+    margin: 15px 0px 12px 0px;
+    width: 100%;
+    letter-spacing: 0.8px;
+    text-align: center;
+}
+
+.email__container-input {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 45%;
+}
+
+.email__input {
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 4px;
+    width: 230px;
+    height: 45px;
+}
+
+.email__button {
+    width: 20%;
+    padding: 8px;
+    background-color: var(--color-pink);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.copyright__container {
+    padding: 20px 20px 1rem 20px;
+    background-color: #2a2a2a;
+    border-top: 1px solid #ffffff;
+}
+
+.copyright {
+    display: flex;
+    width: 100%;
+    padding: 0 20px 0px 20px;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+.copyright > p {
+    display: flex;
+    font-size: 0.65rem;
+    color: var(--color-white);
+    text-transform: uppercase;
+    flex-direction: column;
+}
+
+.copyright__img {
+    display: flex;
+    gap: 29px;
+}
