@@ -11,7 +11,8 @@ const Partners = () =>{
                     <img className="partner__image" src={Parceiros} alt="Parceiros" />
                     <div className="partner__content-texts">
                       <h4 className="partner__title">Parceiros</h4>
-                      <p className="partner__description">Lorem ipsum dolor sit amet, consectetur</p>
+                      <p className="partner__description">Lorem ipsum dolor sit amet, consectetur
+                      </p>
                       <button className="partner__button">Confira</button>
                     </div>
                   </div>

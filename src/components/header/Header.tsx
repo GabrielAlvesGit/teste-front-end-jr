@@ -1,5 +1,4 @@
 import React from "react";
-/* ====== Icons ====== */
 import ShieldCheckIcon from '../../assets/icons/ShieldCheck.svg';
 import CreditCard from '../../assets/icons/CreditCard.svg';
 import Truck from '../../assets/icons/Truck.svg';
