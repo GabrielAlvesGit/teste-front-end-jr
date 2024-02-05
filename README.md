@@ -22,7 +22,6 @@ $ cd teste-front-end-jr
 
 <pre>
 $ npm install  
-
 </pre>
 
 ### Inicie o projeto com o comando
@@ -34,5 +33,5 @@ $ yarn start
 ## 💻 Layout
 
 <h1 align="center">
-  <img src="./src/assets/images/page-example.png">
+  <img src="./src/assets/img/layout.png">
 </h1>
