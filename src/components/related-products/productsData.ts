@@ -10,7 +10,7 @@ export const productsData = {
       "originalPrice":"30,90",
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
-      category: 'celular'
+      category: "celular"
     },
     {
       "productName": "IPHONE 13 MINI 1",
@@ -20,7 +20,7 @@ export const productsData = {
       "originalPrice":"30,90",
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
-      category: 'celular'
+      category: "celular"
     },
     {
       "productName": "Iphone 11 PRO MAX BRANCO 2",
@@ -30,7 +30,7 @@ export const productsData = {
       "originalPrice":"30,90",
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
-      category: 'celular'
+      category: "celular"
     },
     {
       "productName": "IPHONE 13 MINI 2",
@@ -40,7 +40,7 @@ export const productsData = {
       "originalPrice":"30,90",
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
-      category: 'celular'
+      category: "celular"
     },
     {
       "productName": "Iphone 11 PRO MAX BRANCO 3",
@@ -50,7 +50,7 @@ export const productsData = {
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
       "price": 4550,
-      category: 'celular'
+      category: "celular"
     },
     {
       "productName": "IPHONE 13 MINI 3",
@@ -60,7 +60,7 @@ export const productsData = {
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
       "price": 38000,
-      category: 'celular'
+      category: "celular"
     },
     {
       "productName": "Iphone 11 PRO MAX BRANCO 4",
@@ -70,7 +70,7 @@ export const productsData = {
       "originalPrice":"30,90",
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
-      category: 'celular'
+      category: "celular"
     },
     {
       "productName": "IPHONE 13 MINI 4",
@@ -80,7 +80,7 @@ export const productsData = {
       "originalPrice":"30,90",
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
-      category: 'celular'
+      category: "celular"
     },
     {
       "productName": "Iphone 11 PRO MAX BRANCO 5",
@@ -90,7 +90,7 @@ export const productsData = {
       "originalPrice":"30,90",
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
-      category: 'celular'
+       category: "celular"
     },
     {
       "productName": "IPHONE 13 MINI 5",
@@ -100,28 +100,28 @@ export const productsData = {
       "originalPrice":"30,90",
       "discountPrice":"28,90",
       "installment": "ou 2x de R$ 49,95 sem juros",
-      category: 'celular'
+       category: "celular"
     }
   ]
 }
 
 export const productsDataNav = [
   {
-    name: 'celular'
+    name: "celular"
   },
   {
-    name: 'acessórios'
+    name: "acessórios"
   },
   {
-    name: 'tablets'
+    name: "tablets"
   },
   {
-    name: 'notebooks'
+    name: "notebooks"
   },
   {
-    name: 'tvs'
+    name: "tvs"
   },
   {
-    name: 'ver todos'
+    name: "ver todos"
   },
 ]
