@@ -27,6 +27,7 @@ $ npm install
 ### Inicie o projeto com o comando
 
 <pre>
+$ npm start
 $ yarn start 
 </pre>
 
